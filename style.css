@@ -3,3 +3,28 @@ body {
   height: 100%;
   margin: 0;
 }
+
+h1 {
+  text-align: center;
+}
+
+/* i dont know what to do */
+IMG.displayed {
+  display: block;
+  margin-left: auto;
+  margin-right: auto }
+  /* i dont know what to do */
+
+
+h3 {
+  padding-left: 10px;
+  padding-right: 10px;
+  color: grey;
+}
+
+
+
+
+
+
+
